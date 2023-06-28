@@ -806,6 +806,12 @@ header .language {
 	float: left;
 	margin-bottom: 30px;
 }
+.col-md-6.text-right.social-top{
+	text-align: center;
+}
+.col-md-6.socialtop-left{
+	text-align: center;
+}
 }
 @media(max-width:540px) {
 .small-r-items .media {
